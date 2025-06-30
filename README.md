@@ -43,7 +43,7 @@ The goal of this project is to build and evaluate multiple deep learning models 
 - Dataset details and structure are provided in the **Documentation** folder.
 - Preprocessing includes:
   - Normalization
-  - Augmentation (pitch shift, noise injection, time-stretch)
+  - Augmentation 
   - Balancing classes
 
 ---
